@@ -5,12 +5,7 @@
 
 #### The simplest API for running code inside electron!
 
-```js
-electra(`
-  return window.location.href
-`)
-.then(location => console.log(location))
-```
+![screenshot](screenshot.png)
 
 </div>
 
