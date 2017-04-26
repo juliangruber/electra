@@ -3,7 +3,7 @@
 
 # electra
 
-## The simplest API for running code inside electron
+#### The simplest API for running code inside electron!
 
 ```js
 electra(`
