@@ -74,7 +74,11 @@ $ npm install --save electra
 
 ## API
 
-### p = electra(src)
+### electra(fn)
+
+`fn` can be a function with zero or one arguments or a function string.
+
+Returns a `Promise`.
 
 ## License
 
