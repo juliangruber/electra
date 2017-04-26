@@ -9,8 +9,6 @@
 
 </div>
 
-<hr />
-
 ## Features
 
 * __Full access to the DOM and browser APIs__
