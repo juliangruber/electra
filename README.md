@@ -1,5 +1,6 @@
 
-<center>
+<div align="center">
+
 # electra
 
 ## The simplest API for running code inside electron
@@ -10,7 +11,8 @@ electra(`
 `)
 .then(location => console.log(location))
 ```
-</center>
+
+</div>
 
 ## Usage
 
