@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "repository": "juliangruber/electra",
+  "description": "The simplest API for running code inside electron",
   "dependencies": {
     "electron-stream": "^5.0.4",
     "stream-to-string": "^1.1.0"
