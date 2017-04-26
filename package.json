@@ -1,0 +1,10 @@
+{
+  "name": "electra",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "juliangruber/electra",
+  "dependencies": {
+    "electron-stream": "^5.0.4",
+    "stream-to-string": "^1.1.0"
+  }
+}
