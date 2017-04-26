@@ -7,11 +7,11 @@
 
 ![screenshot](screenshot.png)
 
+</div>
+
 * __Full access to the DOM and browser APIs__
 * __Synchronous and asynchronous code execution with Promise support__
 * __Electron comes bundled!__
-
-</div>
 
 ## Usage
 
