@@ -9,7 +9,7 @@ const electra = fn => {
     : `(() => {${fn}})`
   const browser = run()
   setImmediate(() => {
-    if (typeof fn === 'string' || 0 === fn.length) {
+    if (typeof fn === 'string' || fn.length === 0) {
       browser.end(`
         let out
         try {
