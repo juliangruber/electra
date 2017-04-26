@@ -17,8 +17,6 @@
 
 ## Usage
 
-`electra` supports synchronous code, promises and callbacks:
-
 ```js
 const electra = require('electra')
 
