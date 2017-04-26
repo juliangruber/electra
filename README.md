@@ -9,6 +9,8 @@
 
 </div>
 
+<hr />
+
 * __Full access to the DOM and browser APIs__
 * __Synchronous and asynchronous code execution with Promise support__
 * __Electron comes bundled!__
